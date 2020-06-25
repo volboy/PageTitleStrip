@@ -1,0 +1,2 @@
+rootProject.name='PageTitleStrip'
+include ':app'
